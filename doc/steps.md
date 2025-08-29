@@ -17,3 +17,6 @@ DBEaver: connection string from npx supabase status
 
 # Create supabase.ts
 npx supabase gen types typescript --schema public --local  > supabase.ts
+
+# Git repo
+https://github.com/PacktPublishing/Building-Production-Grade-Web-Applications-with-Supabase
